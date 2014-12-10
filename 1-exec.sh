@@ -1,0 +1,3 @@
+#!/bin/bash
+
+ssh $WINDOWS_HOST $TARGET_REMOTE_SCRIPT

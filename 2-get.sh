@@ -1,0 +1,3 @@
+#!/bin/bash
+
+scp -r $WINDOWS_HOST:$TARGET_REMOTE_DIR $TARGET_DIR
