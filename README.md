@@ -10,8 +10,8 @@
 
 # Run
 
-* Copy ssh-keys to remote host by ssh-copy-id $WINDOWS_HOST
-* Run manipulate.sh script by ./manipulate.sh
+* Copy ssh-keys to remote host. Example: ssh-copy-id $WINDOWS_HOST
+* Run manipulate.sh script. Example: ./manipulate.sh
 * You are happy?
 
 For example :
